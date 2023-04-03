@@ -1,4 +1,4 @@
-FROM lMl10l/userbot:slim-buster
+FROM mntzer-nabel/motherfiles:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/mntzer-nabel/motherfiles.git /root/jepthon 
